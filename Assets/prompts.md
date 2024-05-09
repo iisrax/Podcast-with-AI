@@ -30,4 +30,4 @@ O formato do roteiro deve ser:
 - não ultrapasse 8 minutos de duração
 
 ## 🛑 NOTA
-> O prompt do roteiro acima é o original, até a concepção final e consequentemente a adição dele no ElevenLabs  — houve alterações significativas para que o resultado se adequa-se a minha perspectiva de alguém que jogou Innocence.
+> O prompt do roteiro acima é o original, até a concepção final e consequentemente a adição dele no ElevenLabs  — houve alterações significativas para que o resultado se adequasse a perspectiva de alguém que jogou Innocence.
