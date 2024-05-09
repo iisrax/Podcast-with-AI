@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="800" src="Assets\PlagueTale_siblings_2.jpg">
+    <img width="700" src="Assets\PlagueTale_siblings_2.jpg">
 </p>
 
 ### 💾 DESAFIO DE PROJETO
@@ -10,8 +10,8 @@ Projeto realizado durante o **Bootcamp Santander 2024 - Fundamentos de IA para D
 Como o assunto é personalizado, por que não falar sobre jogos? Jogos no geral sempre estão em alta e sinceramente... sempre estarão hahah 🎮  
 **A Plague Tale: Innocence** foi um dos melhores jogos que já joguei nessa vida, e considero o resultado final desse projeto um tanto quanto satisfatório visto que o conteúdo bruto foi feito pelas IAs e revisado/editado por mim.
 
-#### Você pode ouvir o episódio do podcast [**aqui**](Output\Innocence.mp3) 🎙📻
-#### Prompts do roteiro e da imagem acima [**aqui**](Assets) 📖
+#### Você pode ouvir o episódio do podcast [**aqui**](https://github.com/iisrax/Podcast-with-AI/blob/main/Output/Innocence.mp3) 🎙📻
+#### Prompts do roteiro e da imagem acima [**aqui**](https://github.com/iisrax/Podcast-with-AI/blob/main/Assets/prompts.md) 📖
 --------------
 
 ### 👾 Tecnologias Utilizadas no Projeto
@@ -35,5 +35,5 @@ Se você curtiu a trilha sonora de fundo do podcast, saiba que ela está present
 
 <br /> <img width="80" src="Assets\steam-icon.png" align="right">
 
-E não menos importante o [link](https://store.steampowered.com/app/752590/A_Plague_Tale_Innocence/) para o jogo caso o episódio tenha despertado seu interesse pelo jogo 😁🎮
+E não menos importante o [**link**](https://store.steampowered.com/app/752590/A_Plague_Tale_Innocence/) para o jogo caso o episódio tenha despertado seu interesse 😁🎮
 </p>
