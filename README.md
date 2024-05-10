@@ -10,7 +10,7 @@ Projeto realizado durante o **Bootcamp Santander 2024 - Fundamentos de IA para D
 Como o assunto é personalizado, por que não falar sobre jogos? Jogos no geral sempre estão em alta e sinceramente... sempre estarão hahah 🎮  
 **A Plague Tale: Innocence** foi um dos melhores jogos que já joguei nessa vida, e considero o resultado final desse projeto um tanto quanto satisfatório visto que o conteúdo bruto foi feito pelas IAs e revisado/editado por mim.
 
-#### Você pode ouvir o episódio do podcast [**aqui**](https://github.com/iisrax/Podcast-with-AI/blob/main/Output/Innocence.mp3) 🎙📻
+#### Você pode ouvir o episódio do podcast [**aqui**](https://github.com/iisrax/Podcast-with-AI/blob/main/Output/InnocenceV1.0.mp3) 🎙📻
 #### Prompts do roteiro e da imagem acima [**aqui**](https://github.com/iisrax/Podcast-with-AI/blob/main/Assets/prompts.md) 📖
 --------------
 
